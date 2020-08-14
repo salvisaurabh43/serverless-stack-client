@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51HEEgJKItQrDL2Z6tNIaI3WHjXhHUkAjaCxYyw21ucd39HngBHFVDC1hpWmWcwH8k1Gc7IugL7UA7m633ptue2gL00MBtHbPvx",
   s3: {
     REGION: "us-east-1",
     BUCKET: "saurabhsalvi-notes-add-uploads"
